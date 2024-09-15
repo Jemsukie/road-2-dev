@@ -1,6 +1,6 @@
 [👈 Go Back](./lvl1.md)
 
-# Week 1, Day 1: 🌐 Overview of Web Development
+# Week 1 • Day 1: 🌐 Overview of Web Development
 
 ## Lecture Overview:
 In this session, we will introduce the basics of web development and its different components. By the end of the session, you will understand how the web works, the roles of frontend and backend development, and the essential tools you'll need.

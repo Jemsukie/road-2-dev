@@ -8,7 +8,7 @@
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | 1    | [🌐 Overview of Web Development](./day1.md)   | Introduction to web development, roles of frontend and backend, tools and resources.     | 🔍 Explore a sample website and identify the different technologies used.                                   |
 | 2    | 📝 [Getting Started with HTML](./day2.md)      | Basic HTML structure, elements, and attributes.                                          | 🖥️ Create a basic HTML page with headings, paragraphs, and links.                                            |
-| 3    | 🖊️ HTML Forms                   | Introduction to HTML forms and input elements.                                           | 📧 Build a simple contact form with various input types.                                                     |
+| 3    | 🖊️ [HTML Forms](./day3.md)                   | Introduction to HTML forms and input elements.                                           | 📧 Build a simple contact form with various input types.                                                     |
 
 ---
 

@@ -1,6 +1,6 @@
 [👈 Go Back](./lvl1.md)
 
-# Week 1, Day 2: 📝 Getting Started with HTML
+# Week 1 • Day 2: 📝 Getting Started with HTML
 
 ## Lecture Overview:
 In this session, we will introduce the basics of HTML, the foundation of every webpage. By the end of this lesson, you will understand the basic structure of an HTML document, common HTML elements, and how to create your own web page.
