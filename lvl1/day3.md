@@ -58,7 +58,7 @@ Forms can include various types of inputs depending on the data you're collectin
 
 ### 2. Email Input (type="email")
 ```html
-<input type="text" name="username" placeholder="Enter your name">
+<input type="email" name="email" placeholder="Enter your email">
 ```
 
 ### 3. Password Input (type="password")
@@ -79,10 +79,7 @@ Forms can include various types of inputs depending on the data you're collectin
 ### 5. Checkboxes (type="checkbox")
 ```html
 <label>
-  <input type="radio" name="gender" value="male"> Male
-</label>
-<label>
-  <input type="radio" name="gender" value="female"> Female
+  <input type="checkbox" name="subscribe" value="newsletter"> Subscribe to Newsletter
 </label>
 ```
 
