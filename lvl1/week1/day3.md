@@ -1,4 +1,4 @@
-[👈 Go Back](./lvl1.md)
+[👈 Go Back](../lvl1.md)
 
 # Week 1 • Day 3: 🖊️ HTML Forms
 
@@ -83,7 +83,7 @@ Forms can include various types of inputs depending on the data you're collectin
 </label>
 ```
 
-## 🎯 Hands-On Activity: Create Your First HTML Page
+## 🎯 Hands-On Activity: Create Your First HTML Form
 
 ### Instructions:
 1. Open your text editor and create a new HTML file.

@@ -1,4 +1,4 @@
-[👈 Go Back](./lvl1.md)
+[👈 Go Back](../lvl1.md)
 
 # Week 1 • Day 2: 📝 Getting Started with HTML
 

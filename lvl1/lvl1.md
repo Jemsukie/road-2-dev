@@ -6,9 +6,9 @@
 
 | Day  | Topic                           | Lecture                                                                                   | Activity                                                                                                    |
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1    | [🌐 Overview of Web Development](./day1.md)   | Introduction to web development, roles of frontend and backend, tools and resources.     | 🔍 Explore a sample website and identify the different technologies used.                                   |
-| 2    | 📝 [Getting Started with HTML](./day2.md)      | Basic HTML structure, elements, and attributes.                                          | 🖥️ Create a basic HTML page with headings, paragraphs, and links.                                            |
-| 3    | 🖊️ [HTML Forms](./day3.md)                   | Introduction to HTML forms and input elements.                                           | 📧 Build a simple contact form with various input types.                                                     |
+| 1    | [🌐 Overview of Web Development](./week1/day1.md)   | Introduction to web development, roles of frontend and backend, tools and resources.     | 🔍 Explore a sample website and identify the different technologies used.                                   |
+| 2    | 📝 [Getting Started with HTML](./week1/day2.md)      | Basic HTML structure, elements, and attributes.                                          | 🖥️ Create a basic HTML page with headings, paragraphs, and links.                                            |
+| 3    | 🖊️ [HTML Forms](./week1/day3.md)                   | Introduction to HTML forms and input elements.                                           | 📧 Build a simple contact form with various input types.                                                     |
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Day  | Topic                           | Lecture                                                                                   | Activity                                                                                                    |
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1    | 🎨 Introduction to CSS           | What is CSS, inline, internal, and external CSS.                                         | 🎨 Apply basic styles to an HTML page (e.g., color, font, background).                                       |
+| 1    | 🎨 [Introduction to CSS](./week1/day3.md)           | What is CSS, inline, internal, and external CSS.                                         | 🎨 Apply basic styles to an HTML page (e.g., color, font, background).                                       |
 | 2    | 🛠️ CSS Selectors and Properties  | Basic selectors (element, class, ID), common properties.                                | 🎯 Style different elements using class and ID selectors.                                                    |
 | 3    | 📦 Box Model and Layout          | Understanding margins, borders, padding, and content; basic layout techniques.            | 🧩 Create a simple layout using CSS properties and the box model.                                             |
 
