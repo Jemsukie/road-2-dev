@@ -1,6 +1,6 @@
 [👈 Go Back](../lvl1.md)
 
-# Week 2, Day 1: 🎨 Introduction to CSS
+# Week 2 • Day 1: 🎨 Introduction to CSS
 
 ## Lecture Overview:
 In this session, we will introduce CSS (Cascading Style Sheets) and explore how it is used to style HTML elements. By the end of the lesson, you will understand the different ways to apply CSS to your web pages and be able to apply basic styles such as colors, fonts, and backgrounds.

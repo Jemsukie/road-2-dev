@@ -17,7 +17,7 @@
 | Day  | Topic                           | Lecture                                                                                   | Activity                                                                                                    |
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | 1    | 🎨 [Introduction to CSS](./week2/day1.md)           | What is CSS, inline, internal, and external CSS.                                         | 🎨 Apply basic styles to an HTML page (e.g., color, font, background).                                       |
-| 2    | 🛠️ CSS Selectors and Properties  | Basic selectors (element, class, ID), common properties.                                | 🎯 Style different elements using class and ID selectors.                                                    |
+| 2    | 🛠️ [CSS Selectors and Properties](./week2/day2.md)  | Basic selectors (element, class, ID), common properties.                                | 🎯 Style different elements using class and ID selectors.                                                    |
 | 3    | 📦 Box Model and Layout          | Understanding margins, borders, padding, and content; basic layout techniques.            | 🧩 Create a simple layout using CSS properties and the box model.                                             |
 
 ---
