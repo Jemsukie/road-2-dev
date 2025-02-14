@@ -26,7 +26,7 @@
 
 | Day  | Topic                           | Lecture                                                                                   | Activity                                                                                                    |
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1    | 📱 Responsive Design             | Media queries, fluid layouts.                                                             | 📱 Implement responsive design for an existing webpage.                                                      |
+| 1    | 📱 [Responsive Design](./week3/day1.md)             | Media queries, fluid layouts.                                                             | 📱 Implement responsive design for an existing webpage.                                                      |
 | 2    | 📏 Flexbox Layout                | Basics of Flexbox.                                                                         | 📐 Create a layout using Flexbox (e.g., a navigation bar or gallery).                                        |
 | 3    | 🔲 CSS Grid Layout               | Introduction to CSS Grid.                                                                  | 🗂️ Build a grid-based layout for a webpage.                                                                  |
 
