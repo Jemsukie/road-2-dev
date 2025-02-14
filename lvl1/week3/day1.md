@@ -118,8 +118,9 @@ header {
 
 3. **Test your webpage on different devices** (or use Chrome DevTools to simulate screen sizes).
 
+---
 
-## 🎯 Hands-On Activity: Build a Responsive Portfolio Page
+## 🎯 Challenge: Build a Responsive Portfolio Page
 
 ### Instructions:
 1. Create a basic portfolio with a `header`, `about` section, and `project gallery`.  
