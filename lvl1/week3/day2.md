@@ -119,3 +119,5 @@ Example:
 ```
 
 ---
+
+### See [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) for more detailed explanation

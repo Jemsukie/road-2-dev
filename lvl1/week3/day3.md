@@ -119,3 +119,4 @@ Example:
 ```
 
 ---
+### See [CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) for more detailed explanation
