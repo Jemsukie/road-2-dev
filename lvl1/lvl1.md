@@ -36,9 +36,9 @@
 
 | Day  | Topic                           | Lecture                                                                                   | Activity                                                                                                    |
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1    | ✏️ Basics of JavaScript          | JavaScript syntax, variables, and data types.                                            | ✍️ Write basic JavaScript code to manipulate data.                                                           |
-| 2    | 🛠️ Functions and Control Flow    | Defining functions, conditional statements, loops.                                        | ⚙️ Create a script with functions and control flow to perform calculations or manage user input.             |
-| 3    | 🌐 JavaScript in the DOM         | Understanding the DOM, selecting and manipulating DOM elements.                           | 🖱️ Write JavaScript to dynamically change content on a webpage.                                              |
+| 1    | ✏️ [Basics of JavaScript](./week4/day1.md)          | JavaScript syntax, variables, and data types.                                            | ✍️ Write basic JavaScript code to manipulate data.                                                           |
+| 2    | 🛠️ [Functions and Control Flow](./week4/day2.md)    | Defining functions, conditional statements, loops.                                        | ⚙️ Create a script with functions and control flow to perform calculations or manage user input.             |
+| 3    | 🌐 [JavaScript in the DOM](./week4/day3.md)         | Understanding the DOM, selecting and manipulating DOM elements.                           | 🖱️ Write JavaScript to dynamically change content on a webpage.                                              |
 
 ---
 
@@ -46,9 +46,9 @@
 
 | Day  | Topic                           | Lecture                                                                                   | Activity                                                                                                    |
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1    | 🖱️ Event Handling               | Adding and handling events in JavaScript.                                                | 🔘 Implement event listeners to create interactive elements (e.g., buttons, forms).                         |
-| 2    | 🔄 Basic Interactivity           | Changing styles and content dynamically.                                                 | 💡 Create interactive features for a webpage (e.g., toggling visibility, updating text).                     |
-| 3    | 🎛️ Combining JavaScript with HTML/CSS | Integrating JavaScript with HTML and CSS for dynamic web pages.                           | ⚡ Enhance a webpage with JavaScript to interact with user actions and CSS styles.                           |
+| 1    | 🖱️ [Event Handling](./week5/day1.md)               | Adding and handling events in JavaScript.                                                | 🔘 Implement event listeners to create interactive elements (e.g., buttons, forms).                         |
+| 2    | 🔄 [Basic Interactivity](./week5/day2.md)           | Changing styles and content dynamically.                                                 | 💡 Create interactive features for a webpage (e.g., toggling visibility, updating text).                     |
+| 3    | 🎛️ [Combining JavaScript with HTML/CSS](./week5/day3.md) | Integrating JavaScript with HTML and CSS for dynamic web pages.                           | ⚡ Enhance a webpage with JavaScript to interact with user actions and CSS styles.                           |
 
 ---
 
@@ -56,7 +56,7 @@
 
 | Day  | Topic                           | Lecture                                                                                   | Activity                                                                                                    |
 |------|---------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1    | 📝 Project Planning             | Overview of the project, planning and design.                                            | 💡 Brainstorm and outline a simple project (e.g., a personal portfolio site).                                |
-| 2    | 🔨 Project Implementation (Part 1) | Guidance on starting the project, integrating HTML, CSS, and JavaScript.                  | 🚀 Begin building the project based on the outline.                                                          |
-| 3    | 🧹 Project Implementation (Part 2) | Review and refine the project, debugging tips.                                            | 🔍 Continue working on the project, implementing final touches.                                              |
+| 1    | 📝 [Project Planning](./week6/day1.md)             | Overview of the project, planning and design.                                            | 💡 Brainstorm and outline a simple project (e.g., a personal portfolio site).                                |
+| 2    | 🔨 [Project Implementation (Part 1)](./week6/day2.md) | Guidance on starting the project, integrating HTML, CSS, and JavaScript.                  | 🚀 Begin building the project based on the outline.                                                          |
+| 3    | 🧹 [Project Implementation (Part 2)](./week6/day3.md) | Review and refine the project, debugging tips.                                            | 🔍 Continue working on the project, implementing final touches.                                              |
 
